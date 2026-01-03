@@ -4,7 +4,7 @@ import { getFirestore, doc, setDoc } from "https://www.gstatic.com/firebasejs/10
 
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyByxmrxmbwsExmsTEgRE9yAGgaVM5qQbRQ",
+    apiKey: "",
     authDomain: "cookie-shop-app-e6368.firebaseapp.com",
     projectId: "cookie-shop-app-e6368",
     storageBucket: "cookie-shop-app-e6368.firebasestorage.app",
