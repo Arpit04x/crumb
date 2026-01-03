@@ -28,7 +28,7 @@ Crumb & Co. is a modern, minimal, and elegant bakery website designed to showcas
 
 ## 📸 Preview
 
-![Crumb & Co. Website Preview](./preview.png)
+![Crumb & Co. Website Preview](https://cookie-shop-app-e6368.web.app/)
 
 > *Handcrafted with premium ingredients and a whole lot of love.*
 
