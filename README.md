@@ -4,12 +4,12 @@ Crumb & Co. is a modern, minimal, and elegant bakery website designed to showcas
 
 ## ✨ Features
 
-- 🧁 Clean and modern landing page design  
-- 🍪 Premium bakery-style UI with warm color palette  
-- 📱 Fully responsive layout (desktop, tablet, mobile)  
-- 🛒 Call-to-action buttons for ordering and exploring flavors  
-- 📖 Dedicated sections for story, flavors, and contact  
-- ⚡ Fast loading and optimized frontend  
+- 🧁 Clean and modern landing page design.  
+- 🍪 Premium bakery-style UI with warm color palette.  
+- 📱 Fully responsive layout. (desktop, tablet, mobile)  
+- 🛒 Call-to-action buttons for ordering and exploring flavors.  
+- 📖 Dedicated sections for story, flavors, and contact.  
+- ⚡ Fast loading and optimized frontend.  
 
 ## 🖥️ Tech Stack
 
