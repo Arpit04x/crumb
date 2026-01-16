@@ -17,7 +17,7 @@ Crumb & Co. is a modern, minimal, and elegant bakery website designed to showcas
 - **CSS3** – Styling, layout, responsiveness, and animations  
 - **JavaScript (Vanilla JS)** – Interactivity and dynamic behavior  
 - **Firebase Hosting** – Website deployment and hosting  
-- **Firebase Firestore** – Database setup with rules and indexes  
+- **Firebase Firestore** – Database setup with rules and indexes.  
 
 ### 🔥 Firebase Configuration
 
