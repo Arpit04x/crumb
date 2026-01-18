@@ -1,4 +1,4 @@
-# 🍪 Crumb & Co.
+# 🍪 Crumb & Co
 
 Crumb & Co. is a modern, minimal, and elegant bakery website designed to showcase handcrafted cookies made with premium ingredients. The website focuses on clean UI, smooth user experience, and a warm brand identity inspired by artisan bakeries.
 
